@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleApp18</id>
+    <version>1.0.0</version>
+    <authors>ConsoleApp18</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\sakso\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\net6.0\ConsoleApp18.runtimeconfig.json" target="lib\net6.0\ConsoleApp18.runtimeconfig.json" />
+    <file src="C:\Users\sakso\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\net6.0\ConsoleApp18.dll" target="lib\net6.0\ConsoleApp18.dll" />
+  </files>
+</package>

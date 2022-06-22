@@ -1,0 +1,15 @@
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\bin\Debug\net6.0\УгадайЧисло.exe
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\bin\Debug\net6.0\УгадайЧисло.deps.json
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\bin\Debug\net6.0\УгадайЧисло.runtimeconfig.json
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\bin\Debug\net6.0\УгадайЧисло.dll
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\bin\Debug\net6.0\ref\УгадайЧисло.dll
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\bin\Debug\net6.0\УгадайЧисло.pdb
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\obj\Debug\net6.0\УгадайЧисло.csproj.AssemblyReference.cache
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\obj\Debug\net6.0\УгадайЧисло.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\obj\Debug\net6.0\УгадайЧисло.AssemblyInfoInputs.cache
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\obj\Debug\net6.0\УгадайЧисло.AssemblyInfo.cs
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\obj\Debug\net6.0\УгадайЧисло.csproj.CoreCompileInputs.cache
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\obj\Debug\net6.0\УгадайЧисло.dll
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\obj\Debug\net6.0\ref\УгадайЧисло.dll
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\obj\Debug\net6.0\УгадайЧисло.pdb
+C:\Users\sakso\source\repos\УгадайЧисло\УгадайЧисло\obj\Debug\net6.0\УгадайЧисло.genruntimeconfig.cache
